@@ -29,7 +29,7 @@ a greater learning while ignoring the complexities of modern software projects."
 
   -- Todd Glass, CIO
 ## Where
-  [link](url)
+  [link](http://learn-regex.herokuapp.com/)
 
 ## Student
   "After learning regular expressions with [Regex Game], I write much more elogant and efficient
@@ -37,4 +37,4 @@ code"
 
   -- Ricky Mort
 ## Get Started
- Visit us at [link](link)  
+ Visit us at [link](http://learn-regex.herokuapp.com/)  
